@@ -17,13 +17,17 @@ merupakan file yang berisi program vending machine dengan poin bonus (ketika uan
 1. Buka Terminal pada direktori yang sama dengan vendingmachine.py
 
 2. Jalankan Program
-perintah untuk menjalankan program: python vendingmachine.py
+perintah untuk menjalankan program :
+
+        python vendingmachine.py
 
 ---Cara Menjalankan Program VendingMachine_bonus.py
 1. Buka Terminal pada direktori yang sama dengan VendingMachine_bonus.py
 
 2. Jalankan Program
-perintah untuk menjalankan program: python VendingMachine_bonus.py
+perintah untuk menjalankan program:
+
+        python VendingMachine_bonus.py
 
 ## MENJALANKAN FILE EXECUTABLE (.exe)
 Untuk Windows : 
