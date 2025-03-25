@@ -19,7 +19,7 @@ merupakan file yang berisi program vending machine dengan poin bonus (ketika uan
 2. Jalankan Program
 perintah untuk menjalankan program: python vendingmachine.py
 
----Cara Menjalankan Program VendingMachine_bonus.ph
+---Cara Menjalankan Program VendingMachine_bonus.py
 1. Buka Terminal pada direktori yang sama dengan VendingMachine_bonus.py
 
 2. Jalankan Program
@@ -32,10 +32,13 @@ Untuk Windows :
 -Klik double pada vendingmachine.exe atau VendingMachine_bonus.exe
 
 Untuk Linux/Mac:
+
 -Download file executable yang sesuai
+
 -Berikan permission eksekusi
     chmod +x vendingmachine atau
     chmod +x VendingMachine_bonus atau
+    
 -Jalankan
     ./vendingmachine atau
     ./VendingMachine_bonus
