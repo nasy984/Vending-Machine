@@ -36,11 +36,17 @@ Untuk Linux/Mac:
 -Download file executable yang sesuai
 
 -Berikan permission eksekusi
-    chmod +x vendingmachine atau
-    chmod +x VendingMachine_bonus atau
+
+    chmod +x vendingmachine 
+    
+    atau
+    
+    chmod +x VendingMachine_bonus
     
 -Jalankan
-    ./vendingmachine atau
+
+    ./vendingmachine 
+    atau
     ./VendingMachine_bonus
 
 ## Catatan Penting : 
